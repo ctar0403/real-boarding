@@ -1,5 +1,7 @@
 🏂 Splitboarding & Snowboarding Demo – Unity Project
+
 Overview
+
 This Unity project demonstrates a splitboarding and downhill snowboarding experience tailored for Android devices. It features real-world terrain data and smooth transitions between hiking uphill in ski mode and riding downhill on a snowboard. Built using Unity's URP (Universal Render Pipeline) for optimal mobile performance.
 
 🎯 Demo Goals
@@ -33,8 +35,7 @@ Uses baked lighting and LOD for optimization.
 
 Avoids HDRP to maintain mobile compatibility.
 
-![snow-terrain](https://github.com/user-attachments/assets/bcb42ffd-73a4-404f-aec8-d87a1db40166)
-![capture_Moment](https://github.com/user-attachments/assets/3510ae08-c4fc-4cb3-93a4-7ec34a688752)
+![capture_Moment](https://github.com/user-attachments/assets/7b95c897-6a2c-4bb6-a4dd-9d626bb6c5a4)
 
 
 🛠 Development Tasks
